@@ -1,4 +1,4 @@
-# Movlet 🎬
+# reacty-movie app 🎬
 
 Movlet is a modern movie browsing web application built with **React**, **Tailwind CSS**, and **Framer Motion**. It fetches movie data from the [OMDb API](http://www.omdbapi.com/) and displays them in a sleek, responsive UI with smooth animations.
 
@@ -8,23 +8,13 @@ Movlet is a modern movie browsing web application built with **React**, **Tailwi
 
 - Browse movies by title or category
 - View detailed movie information in a modal
-  - Poster, title, year, rating, genre, runtime
-  - Plot, director, and cast
+- Poster, title, year, rating, genre, runtime
+- Plot, director, and cast
 - Smooth animations using **Framer Motion**
 - Responsive design for desktop and mobile
 - Graceful fallback for missing or broken poster images
 - Watch Now button (link to trailer or external page)
   
----
-
-## 🖥️ Screenshots
-
-![Movie Detail Modal](./screenshots/movie-detail.png)  
-*Movie Detail Modal with poster, metadata, and synopsis.*
-
-![Movie List](./screenshots/movie-list.png)  
-*Responsive movie grid layout.*
-
 ---
 
 ## 📦 Technologies Used
